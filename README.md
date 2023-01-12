@@ -3,6 +3,8 @@ Just a mere handsome coder who loves anime, coffee, cheesecake, chocolate cake, 
 
 ![image](https://user-images.githubusercontent.com/109115310/211963831-dc3d740f-fad4-4418-b32c-049e44d75bb1.gif)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vcarames&theme=holi-theme&border_radius=40&mode=weekly)](https://git.io/streak-stats)
+
 
 <!--
 **vcarames/vcarames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
