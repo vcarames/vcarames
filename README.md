@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, i'm Valentine! 👋 A mere handsome coder who loves coding and anime! 😄
 
 <!--
 **vcarames/vcarames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
