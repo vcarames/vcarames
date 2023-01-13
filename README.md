@@ -1,5 +1,5 @@
 ### Hey there, i'm VALENTINE! 👋 
-Just a mere handsome coder who loves anime, coffee, cheesecake, chocolate cake, and many other things 😁!
+Just a mere handsome coder who loves anime and coffee 😁!
 
 ![image](https://user-images.githubusercontent.com/109115310/211963831-dc3d740f-fad4-4418-b32c-049e44d75bb1.gif)
 
